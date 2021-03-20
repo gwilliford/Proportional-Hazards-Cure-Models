@@ -1,4 +1,4 @@
-# # Using the Proportional Hazards Cure Model to Improve the Study of International Relations
+# Using the Proportional Hazards Cure Model to Improve the Study of International Relations
 R code and data for replicating the analysis in: George W. Williford. 2021. ``Using the Proportional Hazards Cure Model to Improve the Study of International Relations.'' 
 
 ## Project Description
@@ -15,7 +15,8 @@ In this article, I revisit an article on civil war recurrence published by Loyle
 ## File Descriptions
 
 - ISQ_FINAL_DATA.dta - Stata file containing replication data from Loyle and Appel (2017).
-- Loyle and Appel 2017 Replication Final - R code for replicating the analysis conducted in this article.
+- Loyle and Appel 2017 Replication Final.R - R code for replicating the analysis conducted in this article.
+- Chapter2.pdf - A copy of the article
 
 ## References
 
